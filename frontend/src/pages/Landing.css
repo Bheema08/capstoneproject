@@ -1,0 +1,133 @@
+
+
+.landing-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 56px); 
+  background: linear-gradient(135deg, #e0f2f7 0%, #bbdefb 100%); 
+  padding: 20px;
+  color: #333;
+}
+
+.landing-content {
+  text-align: center;
+  max-width: 700px;
+  background-color: rgba(255, 255, 255, 0.95); 
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+.landing-title {
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #007bff; 
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.landing-subtitle {
+  font-size: 1.4rem;
+  margin-bottom: 2.5rem;
+  color: #555;
+  line-height: 1.6;
+}
+
+.landing-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  margin-top: 3rem;
+}
+
+.landing-btn {
+  padding: 14px 28px;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  min-width: 220px;
+  margin: 0 auto;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.landing-btn.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.landing-btn.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.landing-btn.btn-outline-primary {
+  color: #007bff;
+  border-color: #007bff;
+  background-color: #fff;
+}
+
+.landing-btn.btn-outline-primary:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.landing-features {
+  margin-top: 4rem;
+  border-top: 1px solid #eee;
+  padding-top: 3rem;
+  color: #444;
+}
+
+.landing-features h3 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: #007bff;
+}
+
+.landing-features ul {
+  padding: 0;
+  list-style: none;
+}
+
+.landing-features li {
+  font-size: 1.1rem;
+  margin-bottom: 0.8rem;
+  position: relative;
+  padding-left: 25px;
+}
+
+.landing-features li::before {
+  content: '✓'; 
+  color: #28a745; 
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+
+@media (min-width: 768px) {
+  .landing-buttons {
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .landing-btn {
+    min-width: 180px;
+  }
+}
+
+@media (max-width: 576px) {
+  .landing-title {
+    font-size: 2.5rem;
+  }
+  .landing-subtitle {
+    font-size: 1.1rem;
+  }
+  .landing-content {
+    padding: 30px;
+  }
+}
