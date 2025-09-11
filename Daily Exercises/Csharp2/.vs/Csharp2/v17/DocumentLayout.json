@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day2\\Csharp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1280776E-0784-4ECF-82C9-08F2CC02904D}|Csharp2\\Csharp2.csproj|c:\\wipro\\day2\\csharp2\\csharp2\\arraystr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1280776E-0784-4ECF-82C9-08F2CC02904D}|Csharp2\\Csharp2.csproj|solutionrelative:csharp2\\arraystr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1280776E-0784-4ECF-82C9-08F2CC02904D}|Csharp2\\Csharp2.csproj|c:\\wipro\\day2\\csharp2\\csharp2\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1280776E-0784-4ECF-82C9-08F2CC02904D}|Csharp2\\Csharp2.csproj|solutionrelative:csharp2\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Csharp2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1280776E-0784-4ECF-82C9-08F2CC02904D}|Csharp2\\Csharp2.csproj|c:\\wipro\\day2\\csharp2\\csharp2\\reverce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1280776E-0784-4ECF-82C9-08F2CC02904D}|Csharp2\\Csharp2.csproj|solutionrelative:csharp2\\reverce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1280776E-0784-4ECF-82C9-08F2CC02904D}|Csharp2\\Csharp2.csproj|c:\\wipro\\day2\\csharp2\\csharp2\\arraycopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1280776E-0784-4ECF-82C9-08F2CC02904D}|Csharp2\\Csharp2.csproj|solutionrelative:csharp2\\arraycopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1280776E-0784-4ECF-82C9-08F2CC02904D}|Csharp2\\Csharp2.csproj|c:\\wipro\\day2\\csharp2\\csharp2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayStr.cs",
+              "DocumentMoniker": "C:\\wipro\\Day2\\Csharp2\\Csharp2\\ArrayStr.cs",
+              "RelativeDocumentMoniker": "Csharp2\\ArrayStr.cs",
+              "ToolTip": "C:\\wipro\\Day2\\Csharp2\\Csharp2\\ArrayStr.cs",
+              "RelativeToolTip": "Csharp2\\ArrayStr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:43:53.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reverce.cs",
+              "DocumentMoniker": "C:\\wipro\\Day2\\Csharp2\\Csharp2\\Reverce.cs",
+              "RelativeDocumentMoniker": "Csharp2\\Reverce.cs",
+              "ToolTip": "C:\\wipro\\Day2\\Csharp2\\Csharp2\\Reverce.cs",
+              "RelativeToolTip": "Csharp2\\Reverce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:39:40.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\wipro\\Day2\\Csharp2\\Csharp2\\Array.cs",
+              "RelativeDocumentMoniker": "Csharp2\\Array.cs",
+              "ToolTip": "C:\\wipro\\Day2\\Csharp2\\Csharp2\\Array.cs",
+              "RelativeToolTip": "Csharp2\\Array.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:29:06.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Csharp2",
+              "DocumentMoniker": "C:\\wipro\\Day2\\Csharp2\\Csharp2\\Csharp2.csproj",
+              "RelativeDocumentMoniker": "Csharp2\\Csharp2.csproj",
+              "ToolTip": "C:\\wipro\\Day2\\Csharp2\\Csharp2\\Csharp2.csproj",
+              "RelativeToolTip": "Csharp2\\Csharp2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T11:27:19.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayCopy.cs",
+              "DocumentMoniker": "C:\\wipro\\Day2\\Csharp2\\Csharp2\\ArrayCopy.cs",
+              "RelativeDocumentMoniker": "Csharp2\\ArrayCopy.cs",
+              "ToolTip": "C:\\wipro\\Day2\\Csharp2\\Csharp2\\ArrayCopy.cs",
+              "RelativeToolTip": "Csharp2\\ArrayCopy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:26:51.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
