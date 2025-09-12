@@ -1,0 +1,6 @@
+C:\wipro\Day3\Caluclation\bin\Debug\Caluclation.dll
+C:\wipro\Day3\Caluclation\bin\Debug\Caluclation.pdb
+C:\wipro\Day3\Caluclation\obj\Debug\Caluclation.csproj.AssemblyReference.cache
+C:\wipro\Day3\Caluclation\obj\Debug\Caluclation.csproj.CoreCompileInputs.cache
+C:\wipro\Day3\Caluclation\obj\Debug\Caluclation.dll
+C:\wipro\Day3\Caluclation\obj\Debug\Caluclation.pdb
