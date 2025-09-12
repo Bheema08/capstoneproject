@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day4\\AbstractEx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E888A5-5D52-41C2-ADD3-4E88061398A1}|AbstractEx1\\AbstractEx1.csproj|C:\\wipro\\Day4\\AbstractEx1\\abstractex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E888A5-5D52-41C2-ADD3-4E88061398A1}|AbstractEx1\\AbstractEx1.csproj|solutionrelative:abstractex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E888A5-5D52-41C2-ADD3-4E88061398A1}|AbstractEx1\\AbstractEx1.csproj|c:\\wipro\\day4\\abstractex1\\abstractex1\\vrdhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E888A5-5D52-41C2-ADD3-4E88061398A1}|AbstractEx1\\AbstractEx1.csproj|solutionrelative:abstractex1\\vrdhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E888A5-5D52-41C2-ADD3-4E88061398A1}|AbstractEx1\\AbstractEx1.csproj|c:\\wipro\\day4\\abstractex1\\abstractex1\\vijay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E888A5-5D52-41C2-ADD3-4E88061398A1}|AbstractEx1\\AbstractEx1.csproj|solutionrelative:abstractex1\\vijay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E888A5-5D52-41C2-ADD3-4E88061398A1}|AbstractEx1\\AbstractEx1.csproj|C:\\wipro\\Day4\\AbstractEx1\\abstractex1\\datta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E888A5-5D52-41C2-ADD3-4E88061398A1}|AbstractEx1\\AbstractEx1.csproj|solutionrelative:abstractex1\\datta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E888A5-5D52-41C2-ADD3-4E88061398A1}|AbstractEx1\\AbstractEx1.csproj|C:\\wipro\\Day4\\AbstractEx1\\abstractex1\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E888A5-5D52-41C2-ADD3-4E88061398A1}|AbstractEx1\\AbstractEx1.csproj|solutionrelative:abstractex1\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vrdhan.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\AbstractEx1\\AbstractEx1\\Vrdhan.cs",
+              "RelativeDocumentMoniker": "AbstractEx1\\Vrdhan.cs",
+              "ToolTip": "C:\\wipro\\Day4\\AbstractEx1\\AbstractEx1\\Vrdhan.cs",
+              "RelativeToolTip": "AbstractEx1\\Vrdhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:17:33.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vijay.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\AbstractEx1\\AbstractEx1\\Vijay.cs",
+              "RelativeDocumentMoniker": "AbstractEx1\\Vijay.cs",
+              "ToolTip": "C:\\wipro\\Day4\\AbstractEx1\\AbstractEx1\\Vijay.cs",
+              "RelativeToolTip": "AbstractEx1\\Vijay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:46:53.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\AbstractEx1\\AbstractEx1\\Training.cs",
+              "RelativeDocumentMoniker": "AbstractEx1\\Training.cs",
+              "ToolTip": "C:\\wipro\\Day4\\AbstractEx1\\AbstractEx1\\Training.cs",
+              "RelativeToolTip": "AbstractEx1\\Training.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:29:25.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Datta.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\AbstractEx1\\AbstractEx1\\Datta.cs",
+              "RelativeDocumentMoniker": "AbstractEx1\\Datta.cs",
+              "ToolTip": "C:\\wipro\\Day4\\AbstractEx1\\AbstractEx1\\Datta.cs",
+              "RelativeToolTip": "AbstractEx1\\Datta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:27:22.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\AbstractEx1\\AbstractEx1\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractEx1\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day4\\AbstractEx1\\AbstractEx1\\Program.cs",
+              "RelativeToolTip": "AbstractEx1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:26:49.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

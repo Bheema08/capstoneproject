@@ -1,0 +1,6 @@
+C:\wipro\Day5\Project\Employ\Employ\bin\Debug\Employ.dll
+C:\wipro\Day5\Project\Employ\Employ\bin\Debug\Employ.pdb
+C:\wipro\Day5\Project\Employ\Employ\obj\Debug\EmployProject.Models.csproj.AssemblyReference.cache
+C:\wipro\Day5\Project\Employ\Employ\obj\Debug\EmployProject.Models.csproj.CoreCompileInputs.cache
+C:\wipro\Day5\Project\Employ\Employ\obj\Debug\Employ.dll
+C:\wipro\Day5\Project\Employ\Employ\obj\Debug\Employ.pdb

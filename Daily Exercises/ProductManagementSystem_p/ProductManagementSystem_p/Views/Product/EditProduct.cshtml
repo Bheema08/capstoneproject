@@ -1,0 +1,27 @@
+﻿@model ProductManagementSystem_p.Models.Product
+
+@{
+    ViewData["Title"] = "Edit Product";
+}
+
+<h2>Edit Product</h2>
+
+<form asp-action="EditProduct" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div>
+        <label>Product Name</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div>
+        <label>Price</label>
+        <input asp-for="Price" />
+        <span asp-validation-for="Price"></span>
+    </div>
+
+    <button type="submit">Update</button>
+</form>
+
+<a asp-action="ProductList">Back to List</a>

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day4\\ExtentionLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A137B0EF-7D35-44B7-A10E-940D0535479E}|ExtentionLibrary\\ExtentionLibrary.csproj|c:\\wipro\\day4\\extentionlibrary\\extentionlibrary\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A137B0EF-7D35-44B7-A10E-940D0535479E}|ExtentionLibrary\\ExtentionLibrary.csproj|solutionrelative:extentionlibrary\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A7AF0B-6F32-4A2B-A959-40EF95EB5C20}|ExtensionExample2\\ExtensionExample2.csproj|c:\\wipro\\day4\\extentionlibrary\\extensionexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A7AF0B-6F32-4A2B-A959-40EF95EB5C20}|ExtensionExample2\\ExtensionExample2.csproj|solutionrelative:extensionexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A7AF0B-6F32-4A2B-A959-40EF95EB5C20}|ExtensionExample2\\ExtensionExample2.csproj|c:\\wipro\\day4\\extentionlibrary\\extensionexample2\\missingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A7AF0B-6F32-4A2B-A959-40EF95EB5C20}|ExtensionExample2\\ExtensionExample2.csproj|solutionrelative:extensionexample2\\missingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissingData.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\ExtentionLibrary\\ExtensionExample2\\MissingData.cs",
+              "RelativeDocumentMoniker": "ExtensionExample2\\MissingData.cs",
+              "ToolTip": "C:\\wipro\\Day4\\ExtentionLibrary\\ExtensionExample2\\MissingData.cs",
+              "RelativeToolTip": "ExtensionExample2\\MissingData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:34:03.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\ExtentionLibrary\\ExtensionExample2\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionExample2\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day4\\ExtentionLibrary\\ExtensionExample2\\Program.cs",
+              "RelativeToolTip": "ExtensionExample2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:33:09.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\ExtentionLibrary\\ExtentionLibrary\\Operations.cs",
+              "RelativeDocumentMoniker": "ExtentionLibrary\\Operations.cs",
+              "ToolTip": "C:\\wipro\\Day4\\ExtentionLibrary\\ExtentionLibrary\\Operations.cs",
+              "RelativeToolTip": "ExtentionLibrary\\Operations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:23:10.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

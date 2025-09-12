@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day19\\EmployCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|c:\\wipro\\day19\\employcrud\\employcrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|c:\\wipro\\day19\\employcrud\\employcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|c:\\wipro\\day19\\employcrud\\employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|c:\\wipro\\day19\\employcrud\\employcrud\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|c:\\wipro\\day19\\employcrud\\employcrud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|c:\\wipro\\day19\\employcrud\\employcrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|c:\\wipro\\day19\\employcrud\\employcrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C60BC3-AB0D-4E34-A36B-C1E85F144D70}|EmployCrud\\EmployCrud.csproj|solutionrelative:employcrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SendMail.cs",
+              "DocumentMoniker": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\Middleware\\SendMail.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Middleware\\SendMail.cs",
+              "ToolTip": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\Middleware\\SendMail.cs",
+              "RelativeToolTip": "EmployCrud\\Middleware\\SendMail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:08:13.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\WeatherForecast.cs",
+              "ToolTip": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\WeatherForecast.cs",
+              "RelativeToolTip": "EmployCrud\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:03:26.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Controllers\\EmploysController.cs",
+              "ToolTip": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "EmployCrud\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T03:07:00.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\Program.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\Program.cs",
+              "RelativeToolTip": "EmployCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:57:32.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployCrud\\appsettings.json",
+              "ToolTip": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\appsettings.json",
+              "RelativeToolTip": "EmployCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T02:54:04.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "EmployCrud\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:50:21.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "EmployCrud\\Models\\Employ.cs",
+              "ToolTip": "C:\\wipro\\Day19\\EmployCrud\\EmployCrud\\Models\\Employ.cs",
+              "RelativeToolTip": "EmployCrud\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:46:08.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

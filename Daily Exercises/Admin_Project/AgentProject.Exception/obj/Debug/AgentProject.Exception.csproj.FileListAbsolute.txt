@@ -1,0 +1,6 @@
+C:\wipro\Day5\Admin_Project\AgentProject.Exception\bin\Debug\AgentProject.Exception.dll
+C:\wipro\Day5\Admin_Project\AgentProject.Exception\bin\Debug\AgentProject.Exception.pdb
+C:\wipro\Day5\Admin_Project\AgentProject.Exception\obj\Debug\AgentProject.Exception.csproj.AssemblyReference.cache
+C:\wipro\Day5\Admin_Project\AgentProject.Exception\obj\Debug\AgentProject.Exception.csproj.CoreCompileInputs.cache
+C:\wipro\Day5\Admin_Project\AgentProject.Exception\obj\Debug\AgentProject.Exception.dll
+C:\wipro\Day5\Admin_Project\AgentProject.Exception\obj\Debug\AgentProject.Exception.pdb

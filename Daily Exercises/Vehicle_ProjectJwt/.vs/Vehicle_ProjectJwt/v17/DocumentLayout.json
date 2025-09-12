@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|c:\\wipro\\day26\\vehicle_projectjwt\\vehicle_projectjwt\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|solutionrelative:vehicle_projectjwt\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|c:\\wipro\\day26\\vehicle_projectjwt\\vehicle_projectjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|solutionrelative:vehicle_projectjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|c:\\wipro\\day26\\vehicle_projectjwt\\vehicle_projectjwt\\models\\vcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|solutionrelative:vehicle_projectjwt\\models\\vcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|c:\\wipro\\day26\\vehicle_projectjwt\\vehicle_projectjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|solutionrelative:vehicle_projectjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|c:\\wipro\\day26\\vehicle_projectjwt\\vehicle_projectjwt\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|solutionrelative:vehicle_projectjwt\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|c:\\wipro\\day26\\vehicle_projectjwt\\vehicle_projectjwt\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BA27B-6877-4C3A-862B-F484D64D0227}|Vehicle_ProjectJwt\\Vehicle_ProjectJwt.csproj|solutionrelative:vehicle_projectjwt\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Vehicle_ProjectJwt\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Vehicle_ProjectJwt\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:43:58.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VCDbContext.cs",
+              "DocumentMoniker": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\Models\\VCDbContext.cs",
+              "RelativeDocumentMoniker": "Vehicle_ProjectJwt\\Models\\VCDbContext.cs",
+              "ToolTip": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\Models\\VCDbContext.cs",
+              "RelativeToolTip": "Vehicle_ProjectJwt\\Models\\VCDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:34:01.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\Program.cs",
+              "RelativeDocumentMoniker": "Vehicle_ProjectJwt\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\Program.cs",
+              "RelativeToolTip": "Vehicle_ProjectJwt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:29:21.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\appsettings.json",
+              "RelativeDocumentMoniker": "Vehicle_ProjectJwt\\appsettings.json",
+              "ToolTip": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\appsettings.json",
+              "RelativeToolTip": "Vehicle_ProjectJwt\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T07:11:50.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Vehicle_ProjectJwt\\Models\\Customer.cs",
+              "ToolTip": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\Models\\Customer.cs",
+              "RelativeToolTip": "Vehicle_ProjectJwt\\Models\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:10:58.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle_ProjectJwt\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\wipro\\Day26\\Vehicle_ProjectJwt\\Vehicle_ProjectJwt\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle_ProjectJwt\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:49:52.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

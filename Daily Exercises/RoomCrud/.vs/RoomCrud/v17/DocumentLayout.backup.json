@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day23\\RoomCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\pages\\roomcrudoperations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|solutionrelative:roomcrud\\pages\\roomcrudoperations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\pages\\roomcrudoperations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|solutionrelative:roomcrud\\pages\\roomcrudoperations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\pages\\roomcrudoperations\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|solutionrelative:roomcrud\\pages\\roomcrudoperations\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\pages\\roomcrudoperations\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|solutionrelative:roomcrud\\pages\\roomcrudoperations\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\pages\\roomcrudoperations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|solutionrelative:roomcrud\\pages\\roomcrudoperations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\pages\\roomcrudoperations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|solutionrelative:roomcrud\\pages\\roomcrudoperations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\pages\\roomcrudoperations\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|solutionrelative:roomcrud\\pages\\roomcrudoperations\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrud.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrud.csproj|solutionrelative:roomcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrud.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\models\\rfcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrud.csproj|solutionrelative:roomcrud\\models\\rfcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrud.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrud.csproj|solutionrelative:roomcrud\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\pages\\roomcrudoperations\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|solutionrelative:roomcrud\\pages\\roomcrudoperations\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\pages\\roomcrudoperations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|solutionrelative:roomcrud\\pages\\roomcrudoperations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\pages\\roomcrudoperations\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrudTestDemo.csproj|solutionrelative:roomcrud\\pages\\roomcrudoperations\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrud.csproj|c:\\wipro\\day23\\roomcrud\\roomcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FEF41B9-61CE-4E45-B20A-03B8D930EEE7}|RoomCrud\\RoomCrud.csproj|solutionrelative:roomcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Program.cs",
+              "RelativeDocumentMoniker": "RoomCrud\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Program.cs",
+              "RelativeToolTip": "RoomCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:47:32.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Create.cshtml",
+              "RelativeDocumentMoniker": "RoomCrud\\Pages\\RoomCrudOperations\\Create.cshtml",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Create.cshtml",
+              "RelativeToolTip": "RoomCrud\\Pages\\RoomCrudOperations\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:09:27.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RoomCrud\\Pages\\RoomCrudOperations\\Create.cshtml.cs",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Create.cshtml.cs",
+              "RelativeToolTip": "RoomCrud\\Pages\\RoomCrudOperations\\Create.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:09:27.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RoomCrud\\Pages\\RoomCrudOperations\\Edit.cshtml.cs",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Edit.cshtml.cs",
+              "RelativeToolTip": "RoomCrud\\Pages\\RoomCrudOperations\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:09:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RoomCrud\\Pages\\RoomCrudOperations\\Edit.cshtml",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Edit.cshtml",
+              "RelativeToolTip": "RoomCrud\\Pages\\RoomCrudOperations\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:09:27.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Index.cshtml",
+              "RelativeDocumentMoniker": "RoomCrud\\Pages\\RoomCrudOperations\\Index.cshtml",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Index.cshtml",
+              "RelativeToolTip": "RoomCrud\\Pages\\RoomCrudOperations\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:09:28.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Details.cshtml",
+              "RelativeDocumentMoniker": "RoomCrud\\Pages\\RoomCrudOperations\\Details.cshtml",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Details.cshtml",
+              "RelativeToolTip": "RoomCrud\\Pages\\RoomCrudOperations\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:09:28.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RoomCrud\\Pages\\RoomCrudOperations\\Index.cshtml.cs",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Index.cshtml.cs",
+              "RelativeToolTip": "RoomCrud\\Pages\\RoomCrudOperations\\Index.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:09:28.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Models\\RFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "RoomCrud\\Models\\RFCoreDbContext.cs",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Models\\RFCoreDbContext.cs",
+              "RelativeToolTip": "RoomCrud\\Models\\RFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:41:44.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "RoomCrud\\Models\\Room.cs",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Models\\Room.cs",
+              "RelativeToolTip": "RoomCrud\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:38:17.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RoomCrud\\Pages\\RoomCrudOperations\\Delete.cshtml.cs",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Delete.cshtml.cs",
+              "RelativeToolTip": "RoomCrud\\Pages\\RoomCrudOperations\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:09:28.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RoomCrud\\Pages\\RoomCrudOperations\\Delete.cshtml",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Delete.cshtml",
+              "RelativeToolTip": "RoomCrud\\Pages\\RoomCrudOperations\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:09:28.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RoomCrud\\Pages\\RoomCrudOperations\\Details.cshtml.cs",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\Pages\\RoomCrudOperations\\Details.cshtml.cs",
+              "RelativeToolTip": "RoomCrud\\Pages\\RoomCrudOperations\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:09:28.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "RoomCrud\\appsettings.json",
+              "ToolTip": "C:\\wipro\\Day23\\RoomCrud\\RoomCrud\\appsettings.json",
+              "RelativeToolTip": "RoomCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T10:46:27.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

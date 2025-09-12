@@ -1,0 +1,8 @@
+C:\wipro\Day5\Files\Files\bin\Debug\Files.exe.config
+C:\wipro\Day5\Files\Files\bin\Debug\Files.exe
+C:\wipro\Day5\Files\Files\bin\Debug\Files.pdb
+C:\wipro\Day5\Files\Files\obj\Debug\Files.csproj.AssemblyReference.cache
+C:\wipro\Day5\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\wipro\Day5\Files\Files\obj\Debug\Files.exe
+C:\wipro\Day5\Files\Files\obj\Debug\Files.pdb
+C:\wipro\Day5\Files\Files\obj\Debug\Files.exe.config

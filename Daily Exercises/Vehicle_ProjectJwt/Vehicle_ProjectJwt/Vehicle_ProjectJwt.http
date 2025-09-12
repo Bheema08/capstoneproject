@@ -1,0 +1,6 @@
+@Vehicle_ProjectJwt_HostAddress = http://localhost:5011
+
+GET {{Vehicle_ProjectJwt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

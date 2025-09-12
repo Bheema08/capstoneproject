@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day4\\PropartiesExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A51380-B575-44C0-A3E0-247F05A55CCA}|PropartiesExample1\\PropartiesExample1.csproj|c:\\wipro\\day4\\propartiesexample1\\propartiesexample1\\writeproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A51380-B575-44C0-A3E0-247F05A55CCA}|PropartiesExample1\\PropartiesExample1.csproj|solutionrelative:propartiesexample1\\writeproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A51380-B575-44C0-A3E0-247F05A55CCA}|PropartiesExample1\\PropartiesExample1.csproj|c:\\wipro\\day4\\propartiesexample1\\propartiesexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A51380-B575-44C0-A3E0-247F05A55CCA}|PropartiesExample1\\PropartiesExample1.csproj|solutionrelative:propartiesexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WriteProperty.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\PropartiesExample1\\PropartiesExample1\\WriteProperty.cs",
+              "RelativeDocumentMoniker": "PropartiesExample1\\WriteProperty.cs",
+              "ToolTip": "C:\\wipro\\Day4\\PropartiesExample1\\PropartiesExample1\\WriteProperty.cs*",
+              "RelativeToolTip": "PropartiesExample1\\WriteProperty.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:03:49.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wipro\\Day4\\PropartiesExample1\\PropartiesExample1\\Program.cs",
+              "RelativeDocumentMoniker": "PropartiesExample1\\Program.cs",
+              "ToolTip": "C:\\wipro\\Day4\\PropartiesExample1\\PropartiesExample1\\Program.cs",
+              "RelativeToolTip": "PropartiesExample1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:56:33.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

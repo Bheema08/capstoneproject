@@ -1,0 +1,9 @@
+C:\wipro\Day24\MvcDemoCore\MvcDemoCore\obj\Debug\net8.0\MvcDemoCore.csproj.AssemblyReference.cache
+C:\wipro\Day24\MvcDemoCore\MvcDemoCore\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\wipro\Day24\MvcDemoCore\MvcDemoCore\obj\Debug\net8.0\MvcDemoCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Day24\MvcDemoCore\MvcDemoCore\obj\Debug\net8.0\MvcDemoCore.AssemblyInfoInputs.cache
+C:\wipro\Day24\MvcDemoCore\MvcDemoCore\obj\Debug\net8.0\MvcDemoCore.AssemblyInfo.cs
+C:\wipro\Day24\MvcDemoCore\MvcDemoCore\obj\Debug\net8.0\MvcDemoCore.csproj.CoreCompileInputs.cache
+C:\wipro\Day24\MvcDemoCore\MvcDemoCore\obj\Debug\net8.0\MvcDemoCore.MvcApplicationPartsAssemblyInfo.cache
+C:\wipro\Day24\MvcDemoCore\MvcDemoCore\obj\Debug\net8.0\MvcDemoCore.RazorAssemblyInfo.cache
+C:\wipro\Day24\MvcDemoCore\MvcDemoCore\obj\Debug\net8.0\MvcDemoCore.RazorAssemblyInfo.cs

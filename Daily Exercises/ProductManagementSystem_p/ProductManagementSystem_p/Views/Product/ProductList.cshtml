@@ -1,0 +1,65 @@
+﻿
+
+@model IEnumerable<ProductManagementSystem_p.Models.Product>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h2>Products</h2>
+@* @if (ViewBag.Message != null)
+{
+    <div style="color: green; font-weight: bold;">
+        @ViewBag.Message
+    </div>
+} *@
+
+@if (ViewBag.Success != null)
+{
+    <div style="color: green; font-weight: bold;">
+        @ViewBag.Success
+    </div>
+}
+
+@if (ViewBag.Error != null)
+{
+    <div style="color: red; font-weight: bold;">
+        @ViewBag.Error
+    </div>
+}
+
+<p>
+    @if (User.IsInRole("Admin"))
+    {
+        <a asp-action="CreateProduct">Create New Product</a>
+    }
+</p>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+            <td>
+                <a asp-action="EditProduct" asp-route-id="@product.Id">Edit</a>
+                @* <a asp-action="DeleteProduct" asp-route-id="@product.Id">Delete</a> *@
+                @if (User.IsInRole("Admin"))
+                {
+                    <a asp-action="DeleteProduct" asp-route-id="@product.Id">Delete</a>
+                }
+                else if (User.IsInRole("Manager"))
+                {
+                    <a asp-action="DeleteProductManger" asp-route-id="@product.Id">Delete</a>
+                }
+            </td>
+        </tr>
+    }
+</table>
+
+
